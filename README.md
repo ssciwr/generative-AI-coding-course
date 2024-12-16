@@ -22,3 +22,8 @@ Before the course, you need to sign up for a GitHub Copilot license. There are s
 - Sign up as GitHub teacher: If you are currently a Postdoc or similar, you can get access through [signing up for GitHub teacher](https://education.github.com/teachers)
 - Sign up for a paid individual license
 - Access GitHub Copilot through your [Copilot Business](https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-business-subscription) or [Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-github-copilot/managing-your-github-copilot-enterprise-subscription) subscription
+
+# GitHub assignments
+- assignment repo #1: [example-pandas](https://classroom.github.com/a/VqxSAOeR)
+- assignment repo #2a: [example-numpy](https://classroom.github.com/a/GXMIWM6m)
+- assignment repo #2b: [example-transformers](https://classroom.github.com/a/el4hLsrr)
