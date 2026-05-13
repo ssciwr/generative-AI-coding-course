@@ -22,3 +22,41 @@ Before the course, you need to sign up for a GitHub Copilot license. There are s
 - Sign up for a paid individual license
 - Access GitHub Copilot through your [Copilot Business](https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-business-subscription) or [Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-github-copilot/managing-your-github-copilot-enterprise-subscription) subscription
 
+## Course Content
+
+### Intro to generative AI for coding tasks
+- Generative AI for software development tasks
+- Providers versus tools versus models
+- What are AI agents?
+
+### Using an IDE with an AI agent
+- Basic set-up and capabilities
+- Example 1
+
+### Adapting AI agents
+- Advanced set-up and capabilities
+- How to provide specific context to an agent (local vs global)
+- Example 2
+
+### Demonstrations
+- Demo with Cursor
+- Demo with Claude CLI
+- Demo with Antigravity
+
+### Tool overview and sustainability
+- A tool for every task?
+
+### Teaching AI agents
+- Agent skills
+- Model-context protocol
+- Retrieval-augmented generation
+
+### Beyond the technical
+- Legal aspects
+- Ethical aspects
+- Security aspects
+
+### The future of research
+- Vibe coding versus agent roles
+- The engineerification of everything
+- Prompting best practices
