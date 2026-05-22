@@ -4,9 +4,11 @@ This is the course material for the course "Generative AI for writing (research)
 
 **Course content:** Generative AI is emerging as a major creative force that supports humans in content creation. Specifically trained models can support software developers with their software projects and lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools, as well as recommendations how to use them efficiently and safely will be introduced. The slides can be found [here](generative-AI-research-software-2026.pdf).
 
-**Learning targets:**
+**Learning goals:**
 - Use AI-assistance in a coding environment
 - Know about the limitations of these tools
+- Know how to adapt AI agents
+- Know how to provide tools to AI agents
 - Be aware of legal and ethical implications
 - Be aware of privacy and security concerns in the use of such tools
 
@@ -25,38 +27,43 @@ Before the course, you need to sign up for a GitHub Copilot license. There are s
 ## Course Content
 
 ### Intro to generative AI for coding tasks
-- Generative AI for software development tasks
+- Generative AI for software development
 - Providers versus tools versus models
-- What are AI agents?
+- AI agents versus AI models
 
 ### Using an IDE with an AI agent
-- Basic set-up and capabilities
-- Example 1
+- Basic set-up and capabilities of GitHub Copilot with VSCode
+- Example 1: Basic usage
+- Example 2: More advanced code with `numpy`
+- Using AI agents: Good practices
+- Software validation and verification
+- Example 2: User story
 
 ### Adapting AI agents
-- Advanced set-up and capabilities
-- How to provide specific context to an agent (local vs global)
-- Example 2
+- The agent core identity
+- System prompts
+- `AGENTS.md`
+- Agent modes
+- Agent context
+- Agent loop
+- slash commands
 
 ### Demonstrations
 - Demo with Cursor
 - Demo with Claude CLI
 - Demo with Antigravity
 
-### Tool overview and sustainability
-- A tool for every task?
-
-### Teaching AI agents
-- Agent skills
-- Model-context protocol
-- Retrieval-augmented generation
+### Agent tools
+- `SKILLS.md`
+- Model-Context protocol (MCP)
+- Retrieval-augmented Generation (RAG)
 
 ### Beyond the technical
+- Security aspects
 - Legal aspects
 - Ethical aspects
-- Security aspects
+- Engineeringification
+- The future of research?
 
-### The future of research
-- Vibe coding versus agent roles
-- The engineerification of everything
-- Prompting best practices
+### Summary
+- Reflecting on the learning goals
