@@ -4,6 +4,8 @@ This is the course material for the course "Generative AI for writing (research)
 
 **Course content:** Generative AI is emerging as a major creative force that supports humans in content creation. Specifically trained models can support software developers with their software projects and lead to time savings and a shift in what aspects of generating software are more important on a day-to-day basis. In this course, we will learn how to set up and use AI tools in software development projects. Best practices in using such tools, as well as recommendations how to use them efficiently and safely will be introduced. The slides can be found [here](generative-AI-research-software-2026.pdf).
 
+For the short version of the course, the slides can be found [here](Getting-started-with-generative-AI-coding-tools.pdf).
+
 **Learning goals:**
 - Use AI-assistance in a coding environment
 - Know about the limitations of these tools
